@@ -1,0 +1,23 @@
+{
+  "id": "2846196",
+  "name": "toutiao",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8455373",
+      "name": "验证码",
+      "font_class": "code",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "4552970",
+      "name": "邮箱",
+      "font_class": "email",
+      "unicode": "e908",
+      "unicode_decimal": 59656
+    }
+  ]
+}
